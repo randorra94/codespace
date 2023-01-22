@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    while (true)
+    while (1)
     {
       printf("meow\n");
     }
